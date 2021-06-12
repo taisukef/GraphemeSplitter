@@ -38,8 +38,6 @@ public partial class Program
 }
 ```
 
-[Web Sample](tree/master/RazorPageSample):
-
 
 ![Razor Page Sample](doc/RazorPageSample.png)
 
